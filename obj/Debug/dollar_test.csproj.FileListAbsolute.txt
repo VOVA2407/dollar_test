@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\SharpDevelop Projects\dollar_test\dollar_test\obj\Debug\dollar_test.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SharpDevelop Projects\dollar_test\dollar_test\obj\Debug\dollar_test.MainForm.resources
+C:\Users\Admin\Documents\SharpDevelop Projects\dollar_test\dollar_test\obj\Debug\dollar_test.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\SharpDevelop Projects\dollar_test\dollar_test\bin\Debug\dollar_test.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\dollar_test\dollar_test\bin\Debug\dollar_test.pdb
+C:\Users\Admin\Documents\SharpDevelop Projects\dollar_test\dollar_test\obj\Debug\dollar_test.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\dollar_test\dollar_test\obj\Debug\dollar_test.pdb
